@@ -1,35 +1,143 @@
 <h1 align="center">Hi 👋, I'm Sanket Shinde</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">Cybersecurity Enthusiast | Aspiring SOC Analyst | Threat Intelligence & Security Research</h3><p align="center">
+  <a href="https://github.com/sanket976">
+    <img src="https://komarev.com/ghpvc/?username=sanket976&label=Profile%20Views&color=0e75b6&style=flat-square" alt="GitHub profile views" />
+  </a>
+  <img src="https://img.shields.io/github/followers/sanket976?label=Followers&style=flat-square&color=blue" alt="GitHub followers" />
+  <img src="https://img.shields.io/badge/Focus-Cybersecurity-red?style=flat-square" alt="Cybersecurity focus" />
+</p>---
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sanket976&label=Profile%20views&color=0e75b6&style=flat" alt="sanket976" /> </p>
+🧑‍💻 About Me
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sanket976" alt="sanket976" /></a> </p>
+I'm a cybersecurity enthusiast from India with a background in commerce and fintech operations. I'm building practical skills in security operations, threat intelligence, OSINT, ethical hacking, and vulnerability assessment.
 
-- 🔭 I’m currently working on [Attendance](https://github.com/sanket976/Tracking)
+My professional experience in fintech has helped me develop communication, problem-solving, operational coordination, and customer issue management skills. I'm now applying that experience while building my technical foundation in cybersecurity.
 
-- 🌱 I’m currently learning **SOC Analysis, Threat Intelligence, Ethical Hacking, Vulnerability Assessment and Network Security**
+- 🔐 Career Goal: Grow into a SOC Analyst or Cybersecurity Research role.
+- 🛡️ Learning: SOC Analysis, Network Security, Threat Intelligence, and Ethical Hacking.
+- 🔎 Interests: OSINT, vulnerability research, application security, and defensive security.
+- 💻 Projects: Exploring practical software development and technical problem-solving.
+- 📚 Approach: Learn, build, document, and improve through hands-on practice.
+- 🤝 Open to: Collaborations, cybersecurity learning projects, and professional networking.
+- 📍 Location: India.
 
-- 👯 I’m looking to collaborate on [Sarthi Calling](https://github.com/sanket976/Saarthi-Calling)
+«My goal is to turn cybersecurity knowledge into practical skills that help identify, understand, and mitigate security risks.»
 
-- 🤝 I’m looking for help with [attendance-backend](https://github.com/sanket976/attendance-backend)
+---
 
-- 💬 Ask me about **Cybersecurity Fundamentals, OSINT, Threat Intelligence, Fintech Operations and Security Research**
+🎯 Current Focus
 
-- 📫 How to reach me **sumitshinde976@gmail.com**
+Area| Learning and Practice
+Security Operations| Log analysis, incident triage, and detection fundamentals
+Network Security| TCP/IP, DNS, HTTP/HTTPS, and network troubleshooting
+Threat Intelligence| IOC analysis, threat research, and investigation reports
+OSINT| Public-source research and information analysis
+Ethical Hacking| Authorized labs and web application security
+Linux| Command line, permissions, processes, and system administration
 
-- ⚡ Fun fact **I combine fintech operations experience with a passion for cybersecurity and ethical hacking.**
+---
 
-<h3 align="left">Connect with me:</h3>
+🛠️ Technologies & Tools
+
+Cybersecurity & Networking
+
+<p>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" alt="Bash" />
+  <img src="https://img.shields.io/badge/Networking-0078D4?style=for-the-badge&logo=cisco&logoColor=white" alt="Networking" />
+  <img src="https://img.shields.io/badge/OSINT-333333?style=for-the-badge" alt="OSINT" />
+  <img src="https://img.shields.io/badge/Threat_Intelligence-8B0000?style=for-the-badge" alt="Threat intelligence" />
+</p>Programming & Development
+
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</p>These badges represent my technical interests and learning areas, not a claim of professional proficiency in every technology.
+
+---
+
+🚀 Projects
+
+1. Attendance Tracking System
+
+A project focused on attendance tracking and application development.
+
+- Repository: "Tracking" (https://github.com/sanket976/Tracking)
+- Focus: Application functionality and attendance management.
+
+2. Sarthi Calling
+
+A project I'm interested in developing and improving.
+
+- Repository: "Saarthi-Calling" (https://github.com/sanket976/Saarthi-Calling)
+- Focus: Project development and practical problem-solving.
+
+3. Attendance Backend
+
+A backend project that I want to improve and learn from.
+
+- Repository: "attendance-backend" (https://github.com/sanket976/attendance-backend)
+- Focus: Backend logic, APIs, and application integration.
+
+4. Cybersecurity Lab Portfolio
+
+I'm working toward building a portfolio of practical cybersecurity exercises and research.
+
+Planned areas:
+
+- SOC investigation and sample log analysis.
+- Threat intelligence reports using public sources.
+- Authorized web security lab write-ups.
+- Network security and Linux practice notes.
+
+The cybersecurity portfolio items above are planned areas, not claims of already published projects.
+
+---
+
+🏅 Certifications & Learning
+
+My cybersecurity and technical learning includes:
+
+- Cyber Security Associate Certification — Skill India / NSDC, 180 hours.
+- IBM Cybersecurity Fundamentals.
+- CS50's Introduction to Cybersecurity — HarvardX.
+- NDG Linux Essentials.
+- IoT and Cybersecurity coursework.
+- SAP BusinessObjects BI Platform training.
+
+I continue to build my knowledge through technical practice, coursework, and hands-on learning.
+
+---
+
+📊 GitHub Statistics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sanket976&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github" height="165" alt="GitHub statistics" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanket976&layout=compact&hide_border=true&theme=tokyonight" height="165" alt="Most-used programming languages" />
+</p><p align="center">
+  <img src="https://streak-stats.demolab.com?user=sanket976&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
+</p>---
+
+🌐 Connect With Me
+
 <p align="left">
-<a href="https://twitter.com/sankets16003100" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sankets16003100" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/sanket (sumit) shinde" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sanket (sumit) shinde" height="30" width="40" /></a>
+  <a href="https://github.com/sanket976">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile" />
+  </a>
+  <a href="https://twitter.com/sankets16003100">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X profile" />
+  </a>
+  <a href="mailto:sumitshinde976@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email me" />
+  </a>
+</p>I'm always interested in connecting with cybersecurity professionals, developers, researchers, and people who enjoy learning about technology.
+
+---
+
+<p align="center">
+  <b>Learn continuously. Research responsibly. Build securely. 🔐</b>
 </p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://canvasjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/Hardik0307/Hardik0307/master/assets/canvasjs-charts.svg" alt="canvasjs" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.cypress.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="cypress" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://www.electronjs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" alt="electron" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://ifttt.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/ifttt/ifttt-ar21.svg" alt="ifttt" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="nestjs" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://nuxtjs.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/nuxtjs/nuxtjs-icon.svg" alt="nuxtjs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> </a> <a href="https://zapier.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/zapier/zapier-icon.svg" alt="zapier" width="40" height="40"/> </a> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sanket976&show_icons=true&locale=en&layout=compact" alt="sanket976" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sanket976&show_icons=true&locale=en" alt="sanket976" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sanket976&" alt="sanket976" /></p>
